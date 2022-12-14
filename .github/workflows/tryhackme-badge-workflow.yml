@@ -1,4 +1,4 @@
-- name: TryHackMe Badge Workflow
+name: TryHackMe Badge Workflow
 
 on:
   schedule:
