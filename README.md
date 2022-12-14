@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alp Erdemir</h1>
-- 🔭 I’m currently working on **My personal projects about data science**
+- 🔭 I’m currently working on My personal projects about data science
 
 - 🌱 I’m currently learning **artificial intelligence**
 
