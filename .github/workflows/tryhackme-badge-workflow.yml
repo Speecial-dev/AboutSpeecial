@@ -1,4 +1,5 @@
 - name: TryHackMe Badge Workflow
+
 on:
   schedule:
     # Make it run every 24 hour
