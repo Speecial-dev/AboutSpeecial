@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **speecial.alp1@gmail.com**
 
-- ⚡ About me **Seeking the knowledge and addicted to knowledge**
+- 📝 About me **Seeking the knowledge and addicted to knowledge**
+
+- ⚡ Fun fact **If you see any Speecial with 2 letter e thats probably me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
