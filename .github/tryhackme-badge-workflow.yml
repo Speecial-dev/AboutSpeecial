@@ -1,5 +1,4 @@
 - name: TryHackMe Badge Workflow
-  uses: p4p1/tryhackme-badge-workflow@1.0.0
 on:
   schedule:
     # Make it run every 24 hour
