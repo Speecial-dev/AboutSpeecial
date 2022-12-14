@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alp Erdemir</h1>
 - 🔭 I’m currently working on My personal projects about data science
 
-- 🌱 I’m currently learning **AI Data science Automation **
+- 🌱 I’m currently learning ** AI,Data science,Automation **
 
 - 💬 Ask me about **Algorithm, Data Science, Web Scrapping, Python, C,Linux**
 
